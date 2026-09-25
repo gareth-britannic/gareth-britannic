@@ -1,6 +1,6 @@
 ## Gareth — Software Engineer
 
-**C# · .NET · AWS** — senior software engineer, 14+ years.
+**C# · .NET · AWS** — senior software engineer.
 
 Cloud-native applications, distributed systems and multi-tenant SaaS platforms.
 Available for remote contract work, UK/EU overlap.
