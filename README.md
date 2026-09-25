@@ -25,7 +25,7 @@ Cloud-native applications, distributed systems and multi-tenant SaaS platforms.
 - **Sportradar** (2020 – 2022) — rebuilt an on-premise legacy monolith into containerised microservices on AWS ECS. Mapped undocumented business rules to establish service boundaries. Introduced TDD across the new services.
 - **Newfold Digital** (2017 – 2019) — re-engineered a monolithic web application into loosely coupled services. Built a .NET Core ETL engine on serverless functions, and Redis caching strategies to cut database load.
 
-B.Sc. (Hons) Computer Science, Cardiff University.
+B.Sc. (Hons) Computer Science, Cardiff University. 2:1
 
 ### How I work
 
